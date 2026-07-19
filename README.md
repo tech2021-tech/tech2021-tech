@@ -1,3 +1,5 @@
+🇫🇷 **Français** · [🇬🇧 English](README.en.md)
+
 # Baye Ousseynou FALL — `@tech2021-tech`
 
 **Ingénieur Réseaux & Sécurité · Infrastructures critiques · Cloud / DevOps**
